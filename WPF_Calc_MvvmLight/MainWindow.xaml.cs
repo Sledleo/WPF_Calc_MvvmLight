@@ -23,6 +23,7 @@ namespace WPF_Calc_MvvmLight
         public MainWindow()
         {
             InitializeComponent();
+            //this.DataContext = new MyViewModel();
         }
     }
 }
